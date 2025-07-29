@@ -7,8 +7,6 @@ who excels at translating business goals into modern web applications and
 leading distributed teams. Specialises in full-stack TypeScript/JavaScript
 (React, Next.js, Node/Bun).
 
-### 🔭 I'm currently working on [Acrokit](https://acrokit.com) and [♾️CHPTRS](https://new.infinite-chapters.com) clients
-
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpricedev)](https://github.com/alexpricedev)
+🔭 I'm currently working on [♾️CHPTRS](https://new.infinite-chapters.com) client projects and [Acrokit](https://acrokit.com) on the side
 
 📫 Interesting project? Email me: [github-readme@alexprice.dev](mailto:github-readme@alexprice.dev)
