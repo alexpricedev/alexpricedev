@@ -1,16 +1,14 @@
-## Hi there 👋
+# Alex Price
+## CTO & Full-Stack Software Consultant (Freelance)
 
-<!--
-**alexpricedev/alexpricedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Seasoned technology leader and hands-on software engineer with 10+
+years of experience building and scaling digital products. Former CTO/CPO
+who excels at translating business goals into modern web applications and
+leading distributed teams. Specialises in full-stack TypeScript/JavaScript
+(React, Next.js, Node/Bun).
 
-Here are some ideas to get you started:
+### 🔭 I'm currently working on [Acrokit](https://acrokit.com) and [♾️CHPTRS](https://new.infinite-chapters.com) clients
+### 🌱 I'm currently learning everything I can about AI
+### 📫 Reach out to me with interesting ideas: [github-readme@alexprice.dev](mailto:github-readme@alexprice.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=alexpricedev)](https://github.com/alexpricedev)
