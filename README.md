@@ -1,12 +1,13 @@
-# 👋 Hello there
-## CTO & Full-Stack Software Consultant (Freelance)
+# 👋 Hey, I'm Alex
 
-Seasoned technology leader and hands-on software engineer with 10+
-years of experience building and scaling digital products. Former CTO/CPO
-who excels at translating business goals into modern web applications and
-leading distributed teams. Specialises in full-stack TypeScript/JavaScript
-(React, Next.js, Node/Bun).
+## Fractional CTO who builds engineering teams that don't need him
 
-🔭 I'm currently working on [♾️CHPTRS](https://chptrs.tech) client projects and [REALFAST](https://realfast.food) on the side
+Scaled Ecologi from 3 to 80+ employees (LinkedIn Top 10 UK Startup 2022). Now I help Series A founders build the teams and systems that get them to Series B.
 
-📫 Interesting project? Email me: [github-readme@alexprice.dev](mailto:github-readme@alexprice.dev)
+Former CTO/CPO with 10+ years leading distributed engineering teams. Still write code when it matters. TypeScript, React, Node—the usual suspects.
+
+🔭 Currently: Fractional CTO work + building [REALFAST](https://realfast.food) on the side
+
+📫 Got a scaling challenge? [scale@alexprice.dev](mailto:scale@alexprice.dev)
+
+🔗 [LinkedIn](https://linkedin.com/in/alexpricecto) · [Website](https://alexprice.dev)
