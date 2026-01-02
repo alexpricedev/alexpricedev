@@ -2,7 +2,7 @@
 
 ## Fractional CTO who builds engineering teams that don't need him
 
-Scaled Ecologi from 3 to 80+ employees (LinkedIn Top 10 UK Startup 2022). Now I help Series A founders build the teams and systems that get them to Series B.
+Scaled [Ecologi](https://ecologi.com) from 3 to 80+ employees (#8 LinkedIn Top Startups UK 2022). Now I help Series A founders build the teams and systems that get them to Series B.
 
 Former CTO/CPO with 10+ years leading distributed engineering teams. Still write code when it matters. TypeScript, React, Node—the usual suspects.
 
