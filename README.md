@@ -8,6 +8,6 @@ Former CTO/CPO with 10+ years leading distributed engineering teams. Still write
 
 🔭 Currently: Fractional CTO work + building [REALFAST](https://realfast.food) on the side
 
-📫 Got a scaling challenge? [scale@alexprice.dev](mailto:scale@alexprice.dev)
+📫 Got a scaling challenge? [fractional@alexprice.dev](mailto:fractional@alexprice.dev)
 
 🔗 [LinkedIn](https://linkedin.com/in/alexpricecto) · [Website](https://alexprice.dev)
