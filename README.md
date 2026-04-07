@@ -1,13 +1,20 @@
 # 👋 Hey, I'm Alex
 
-## Fractional CTO who builds engineering teams that don't need him
+## Fractional CTO at [CHPTRS](https://chptrs.tech) · I help founders ship vibe-coded apps to production
 
-Scaled [Ecologi](https://ecologi.com) from 3 to 80+ employees (#8 LinkedIn Top Startups UK 2022). Now I help Series A founders build the teams and systems that get them to Series B.
+I run [CHPTRS](https://chptrs.tech), a fractional CTO practice for Seed and Series-A founders who need someone to turn early code into something real users can hit without it falling over.
 
-Former CTO/CPO with 10+ years leading distributed engineering teams. Still write code when it matters. TypeScript, React, Node—the usual suspects.
+Previously co-founded and exited [Ecologi](https://ecologi.com), scaling the eng org from 3 to 80+ and the business to 18,000 B2B customers (#8 LinkedIn Top Startups UK 2022). Still hands-on with code when it matters, and deep in AI tooling day to day. TypeScript, React, Node, and a lot of time spent making LLMs actually useful in production.
 
-🔭 Currently: Fractional CTO work + building [REALFAST](https://realfast.food) on the side
+### 🔧 What I'm building right now
 
-📫 Got a scaling challenge? [fractional@alexprice.dev](mailto:fractional@alexprice.dev)
+- **[Billet](https://github.com/alexpricedev/billet)** · A vibe-code starter kit that solves the most common issues I see when non-technical founders take AI-built apps to production. Auth, security, observability, and the boring stuff that breaks at 100 users.
+- **[restarred.dev](https://restarred.dev)** · Give your GitHub stars a second chance. A tool for rediscovering the projects you starred and forgot about.
 
-🔗 [LinkedIn](https://linkedin.com/in/alexpricecto) · [Website](https://alexprice.dev)
+### 📫 Work with me
+
+Got a vibe-coded MVP that needs to grow up? Or an eng org that needs someone in the room?
+
+- Email: [fractional@alexprice.dev](mailto:fractional@alexprice.dev)
+- Web: [alexprice.dev](https://alexprice.dev) · [chptrs.tech](https://chptrs.tech)
+- LinkedIn: [@alexpricecto](https://linkedin.com/in/alexpricecto)
