@@ -4,7 +4,7 @@
 
 [CHPTRS](https://chptrs.tech) is a two-person team covering engineering and product for Seed to Series-A founders who need both, but not full-time.
 
-Previously co-founded and exited [Ecologi](https://ecologi.com), scaling the eng org from 3 to 80+ and the business to 18,000 B2B customers (#8 LinkedIn Top Startups UK 2022). Still hands-on with code when it matters, and deep in AI tooling day to day. TypeScript, React, Node, and a lot of time spent making LLMs actually useful in production.
+Previously co-founded and exited [Ecologi](https://ecologi.com), scaling the eng org from 3 to 80+ and the business to 18,000 B2B customers ([#8 LinkedIn Top Startups UK 2022](https://www.linkedin.com/hubs/top-startups/gb/2022/)). Still hands-on with code when it matters, and deep in AI tooling day to day. TypeScript, React, Node, and a lot of time spent making LLMs actually useful in production.
 
 ### 🔧 What I'm building right now
 
