@@ -1,8 +1,8 @@
 # 👋 Hey, I'm Alex
 
-## Fractional CTO and co-founder of [CHPTRS](https://chptrs.tech) · I help founders ship their vibe-coded apps and get initial traction.
+## Fractional CTO and co-founder of [CHPTRS](https://chptrs.tech) · I specialise in getting founders past a vibe-coded demo and into something customers pay for.
 
-I run [CHPTRS](https://chptrs.tech), we're a duo of fractional startup experts for Seed and Series-A founders who need to turn early code into something real users can hit without it falling over.
+[CHPTRS](https://chptrs.tech) is a two-person team covering engineering and product for Seed to Series-A founders who need both, but not full-time.
 
 Previously co-founded and exited [Ecologi](https://ecologi.com), scaling the eng org from 3 to 80+ and the business to 18,000 B2B customers (#8 LinkedIn Top Startups UK 2022). Still hands-on with code when it matters, and deep in AI tooling day to day. TypeScript, React, Node, and a lot of time spent making LLMs actually useful in production.
 
